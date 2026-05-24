@@ -127,3 +127,7 @@ Password: admin123
 **Schedule** — `employee (ref), shift, startTime, endTime, date, notes`
 
 **Admin** — `name, email, password (bcrypt hashed), role`
+
+## Demo
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Lm04M2Jxx_BJ3sY4fHpWGqWw92F7Mzen/view?usp=sharing)
